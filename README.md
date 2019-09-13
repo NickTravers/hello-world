@@ -1,4 +1,2 @@
 # hello-world
-hello world repository
-
-Hi. My name is Nick. 
+hello world repository (with an edit) 
